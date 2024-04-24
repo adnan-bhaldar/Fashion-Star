@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![Fashion-Star Desktop Demo](./desktop.png "Desktop Demo")
+![Fashion-Star Desktop Demo](./readme-images/Desktop.png "Desktop Demo")
 
 ### Prerequisites
 
